@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi there, I'm Anagha!
 
-<!--
-**anagha6408/anagha6408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech enthusiast exploring  development. I love learning new things and working on real-world problems.
 
-Here are some ideas to get you started:
+### 🔭 Projects I'm Working On
+- 🛒 E-commerce Website for Visually Impaired
+- 📚 Book Store Management System
+- 🛋️ AI Room Designer using Stable Diffusion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Exploring everything that excites me!
+
+### 📫 Reach Me
+- Email: anaghasajeev13@gmail.com
+
+Thanks for visiting my profile! 😊
